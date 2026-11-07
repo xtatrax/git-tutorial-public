@@ -13,6 +13,9 @@ Gitを初めて使う人のための日本語チュートリアルです。元�
 | [自前サーバーで共有する](server/README.md) | LinuxサーバーとSSH公開鍵で共有する |
 | [GitHubのアカウント作成と初期設定](github/account.md) | 登録、メール非公開、2FA、Gitとの接続 |
 | [GitHubを使う](github/README.md) | リポジトリ作成、共同作業、Pages |
+| [GitLab.comの登録と初期設定](gitlab/account.md) | 公式ホスティングへの登録、メール・認証・接続 |
+| [GitLabの自前サーバー構築](gitlab/self-managed.md) | Ubuntu、HTTPS、管理者・利用者、バックアップ |
+| [GitLabを使う](gitlab/README.md) | Privateプロジェクト、clone、Merge Request |
 | [TortoiseGitで使うGit](tortoisegit/README.md) | Windowsの右クリックからclone・コミット・push／pull |
 | [GUIで使うGit](old/README.md) | 画面操作で行うときの手順 |
 | [用語集](dictionary.md) | よく出てくる言葉 |
@@ -29,12 +32,13 @@ Gitは、ファイルの変更を履歴として記録する分散型の[バー�
 
 Gitの履歴はバックアップにも役立ちます。ただし、コミットしていない変更は履歴に残らず、同じ端末だけに保存している履歴は端末の故障に備えたバックアップにはなりません。
 
-## GitとGitHubの違い
+## Git・GitHub・GitLabの違い
 
 | 名前 | 役割 |
 | --- | --- |
 | Git | 変更履歴を管理する仕組み・ソフトウェア |
 | GitHub | Gitリポジトリの共有と共同作業を支援するホスティングサービス |
+| GitLab | Gitリポジトリとレビューなどを提供するソフトウェア・サービス。公式ホスティングと自前運用を選べる |
 | Gitクライアント | Gitを操作するためのコマンドやGUI。エディター内のGit操作画面も含む |
 
 Gitを使うだけなら、GitHubのアカウントやインターネット接続は必要ありません。共有先にはGitHub以外のサービスや、自分で管理するサーバーも使えます。
@@ -80,5 +84,6 @@ flowchart LR
 - [Gitのドキュメント](https://git-scm.com/docs)
 - [Pro Git 日本語版](https://git-scm.com/book/ja/v2)
 - [GitHub Docs 日本語版](https://docs.github.com/ja)
+- [GitLab Docs](https://docs.gitlab.com/)
 
 この教材の例に出てくる名前や `example.invalid` のアドレスは架空のものです。

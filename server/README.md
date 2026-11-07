@@ -4,6 +4,8 @@
 
 この章では、Debian・Ubuntu系のLinuxサーバーにベアリポジトリを置き、クライアントからSSHでclone・pushする構成を作ります。GitHubのようなWeb画面やIssue機能は、この構成には含まれません。
 
+Web画面や利用者ごとのプロジェクト権限も自前で運用する場合は、[GitLabのサーバー構築](../gitlab/self-managed.md)を参照してください。そちらは新規の別ホストを使う手順です。
+
 ## 構成と前提
 
 ```mermaid

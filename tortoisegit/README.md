@@ -44,6 +44,8 @@ GitHubの公開リポジトリは、HTTPSなら認証なしでcloneできる場�
 
 SSHで使う場合は、先に [この章のSSH設定](#sshを使う場合)も確認してください。
 
+GitLabへ接続する場合は、[GitLabの登録・接続設定](../gitlab/account.md)に合わせ、対象プロジェクトのURLを使います。clone以降の基本操作は同じです。
+
 「ここにリポジトリを作成」は新規の初期化で、既存リポジトリを取得するcloneとは別の操作です。
 
 参考：[clone](https://tortoisegit.org/docs/tortoisegit/tgit-dug-clone.html)、[GitHubの認証](https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/about-authentication-to-github)
