@@ -1,8 +1,10 @@
 # GitHubを使う
 
-[全体の案内へ戻る](../README.md) · [コマンドの実習](../git/README.md)
+[全体の案内へ戻る](../README.md) · [アカウント作成と初期設定](account.md) · [コマンドの実習](../git/README.md)
 
 GitHubはGitリポジトリのホスティングサービスです。履歴の共有に加え、Issueでの課題管理、Pull Requestでの変更レビューなどに使えます。
+
+初めて使う場合は、[アカウント作成と初期設定](account.md)を先に進めてください。メールの確認・公開範囲・2FA・手元のGitからの接続を準備できます。
 
 ## リポジトリを作る
 
@@ -20,11 +22,11 @@ GitHubはGitリポジトリのホスティングサービスです。履歴の�
 ```sh
 git clone https://github.com/OWNER/REPOSITORY.git
 cd REPOSITORY
-git config --local user.name "Sample Contributor"
-git config --local user.email "contributor@example.invalid"
 ```
 
 `OWNER` と `REPOSITORY` は、接続先のアカウント・組織名とリポジトリ名に置き換えます。
+
+clone後、最初のコミットを作る前に、[手元のGitの記録名義](account.md#5-手元のgitの記録名義を設定する)を設定します。GitHubへ関連付ける場合は、自分用のnoreplyアドレスなど、アカウントに対応するアドレスを使ってください。
 
 ### 手元のリポジトリを空のGitHubリポジトリへ送る場合
 

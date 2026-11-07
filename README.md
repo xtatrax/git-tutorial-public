@@ -11,6 +11,7 @@ Gitを初めて使う人のための日本語チュートリアルです。元�
 | [コマンドで使うGit](git/README.md) | ローカルで実習、ブランチ、リモートとの同期 |
 | [ローカルのベアリポジトリ](bare/README.md) | 共有先を作り、2つの作業場所でpush・pullする |
 | [自前サーバーで共有する](server/README.md) | LinuxサーバーとSSH公開鍵で共有する |
+| [GitHubのアカウント作成と初期設定](github/account.md) | 登録、メール非公開、2FA、Gitとの接続 |
 | [GitHubを使う](github/README.md) | リポジトリ作成、共同作業、Pages |
 | [GUIで使うGit](old/README.md) | 画面操作で行うときの手順 |
 | [用語集](dictionary.md) | よく出てくる言葉 |

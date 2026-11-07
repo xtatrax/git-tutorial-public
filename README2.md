@@ -28,6 +28,8 @@ git config --local user.email "contributor@example.invalid"
 
 これは実習用の架空の名義です。実際の共同作業では、公開してよい名前とアドレスに置き換えます。実メールを公開したくない場合は、GitHubの設定に表示される自分用のnoreplyアドレスも使えます。アドレスの形式は推測せず、設定画面で確認してください。
 
+GitHubのアカウント作成やメールの非公開設定は、[GitHubの初期設定](github/account.md)を参照してください。
+
 設定の適用範囲は次のとおりです。
 
 | オプション | 適用範囲 |
@@ -66,6 +68,8 @@ ssh-keygen -t ed25519 -f ~/.ssh/git_tutorial_ed25519 -C "git-tutorial-example"
 | `git_tutorial_ed25519` | 秘密鍵。共有・コミットしない |
 
 登録するのは `.pub` 側です。秘密鍵をREADMEやチャットに貼り付けないでください。
+
+GitHubへの登録操作と接続テストは、[GitHubへのSSH接続準備](github/account.md#6-手元のgitからの接続を用意する)で説明しています。
 
 ## クローン時に鍵を指定する
 
