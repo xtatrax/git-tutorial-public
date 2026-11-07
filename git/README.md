@@ -162,6 +162,8 @@ git push -u origin topic/add-example
 
 ## 次に試す
 
+エディターの画面で同じ操作を行う場合は、[VS Code標準のGit機能](../vscode/README.md)を使えます。
+
 手元の履歴をブラウザーで見る場合は、[Git付属のWeb UI：Gitweb](../gitweb/README.md)を使えます。
 
 GitHubを使わずに共有先を作る場合は、[ローカルのベアリポジトリ](../bare/README.md)で練習し、[自前サーバーでのSSH共有](../server/README.md)へ進めます。

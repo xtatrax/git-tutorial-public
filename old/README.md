@@ -6,6 +6,8 @@
 
 GitクライアントやエディターのGit機能でも、操作の基本はコマンドと同じです。ボタン名や配置は製品・バージョンによって異なるので、次の操作名を目印にしてください。
 
+Windows・macOS・Linuxのエディター内で進める場合は、[VS Code標準のGit機能](../vscode/README.md)を参照してください。差分確認、部分ステージ、履歴グラフなども扱います。
+
 Windowsでの具体的な操作は、[TortoiseGitで使うGit](../tortoisegit/README.md)で説明しています。インストール、名義設定、clone、コミット、送受信、ブランチ、競合解決へ順に進めます。
 
 Git付属の機能で履歴をブラウザー表示する場合は、[Gitwebとgit instaweb](../gitweb/README.md)を参照してください。

@@ -17,6 +17,7 @@ Gitを初めて使う人のための日本語チュートリアルです。元�
 | [GitLab.comの登録と初期設定](gitlab/account.md) | 公式ホスティングへの登録、メール・認証・接続 |
 | [GitLabの自前サーバー構築](gitlab/self-managed.md) | Ubuntu、HTTPS、管理者・利用者、バックアップ |
 | [GitLabを使う](gitlab/README.md) | Privateプロジェクト、clone、Merge Request |
+| [VS Code標準のGit機能](vscode/README.md) | 差分・部分ステージ・コミット・グラフ・送受信 |
 | [TortoiseGitで使うGit](tortoisegit/README.md) | Windowsの右クリックからclone・コミット・push／pull |
 | [GUIで使うGit](old/README.md) | 画面操作で行うときの手順 |
 | [用語集](dictionary.md) | よく出てくる言葉 |
