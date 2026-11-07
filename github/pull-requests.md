@@ -45,14 +45,11 @@ PRを開くだけでは、取り込み先のファイルは更新されません
 
 ```mermaid
 flowchart LR
-    A[作業ブランチで編集] --> B[commit]
-    B --> C[push]
-    C --> D[PRを作成]
-    D --> E[差分確認とレビュー]
-    E --> F[修正をcommitしてpush]
+    A[編集] --> B[commit] --> C[push] --> D[PR作成]
+    D --> E[レビュー]
+    E -->|要修正| F[修正・commit・push]
     F --> E
-    E --> G[条件を満たしてマージ]
-    G --> H[手元のmainを更新]
+    E -->|承認| G[マージ] --> H[main更新]
 ```
 
 参考：[PRの役割と画面構成](https://docs.github.com/en/pull-requests/reference/pull-requests)
