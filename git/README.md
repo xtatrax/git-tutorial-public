@@ -159,3 +159,7 @@ git push -u origin topic/add-example
 | fork | ホスティングサービス側で別の所有者のリポジトリを派生させる仕組み |
 
 詳しい使い方は `git help コマンド名`、または [Gitの公式ドキュメント](https://git-scm.com/docs)で確認できます。
+
+## 次に試す
+
+GitHubを使わずに共有先を作る場合は、[ローカルのベアリポジトリ](../bare/README.md)で練習し、[自前サーバーでのSSH共有](../server/README.md)へ進めます。
