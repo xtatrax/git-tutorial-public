@@ -9,6 +9,7 @@ Gitを初めて使う人のための日本語チュートリアルです。元�
 | このページ | Gitの役割と全体像 |
 | [準備とSSH](README2.md) | インストール、記録名義、SSH鍵 |
 | [コマンドで使うGit](git/README.md) | ローカルで実習、ブランチ、リモートとの同期 |
+| [Git付属のWeb UI：Gitweb](gitweb/README.md) | ブラウザーで履歴・差分・ファイルを閲覧する |
 | [ローカルのベアリポジトリ](bare/README.md) | 共有先を作り、2つの作業場所でpush・pullする |
 | [自前サーバーで共有する](server/README.md) | LinuxサーバーとSSH公開鍵で共有する |
 | [GitHubのアカウント作成と初期設定](github/account.md) | 登録、メール非公開、2FA、Gitとの接続 |

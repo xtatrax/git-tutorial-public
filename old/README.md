@@ -8,6 +8,8 @@ GitクライアントやエディターのGit機能でも、操作の基本は�
 
 Windowsでの具体的な操作は、[TortoiseGitで使うGit](../tortoisegit/README.md)で説明しています。インストール、名義設定、clone、コミット、送受信、ブランチ、競合解決へ順に進めます。
 
+Git付属の機能で履歴をブラウザー表示する場合は、[Gitwebとgit instaweb](../gitweb/README.md)を参照してください。
+
 ## 既存リポジトリを使う
 
 1. 共有先でリポジトリのURLをコピーする。

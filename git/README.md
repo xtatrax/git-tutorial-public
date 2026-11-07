@@ -162,4 +162,6 @@ git push -u origin topic/add-example
 
 ## 次に試す
 
+手元の履歴をブラウザーで見る場合は、[Git付属のWeb UI：Gitweb](../gitweb/README.md)を使えます。
+
 GitHubを使わずに共有先を作る場合は、[ローカルのベアリポジトリ](../bare/README.md)で練習し、[自前サーバーでのSSH共有](../server/README.md)へ進めます。
