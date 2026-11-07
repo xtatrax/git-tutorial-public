@@ -13,6 +13,7 @@ Gitを初めて使う人のための日本語チュートリアルです。元�
 | [自前サーバーで共有する](server/README.md) | LinuxサーバーとSSH公開鍵で共有する |
 | [GitHubのアカウント作成と初期設定](github/account.md) | 登録、メール非公開、2FA、Gitとの接続 |
 | [GitHubを使う](github/README.md) | リポジトリ作成、共同作業、Pages |
+| [TortoiseGitで使うGit](tortoisegit/README.md) | Windowsの右クリックからclone・コミット・push／pull |
 | [GUIで使うGit](old/README.md) | 画面操作で行うときの手順 |
 | [用語集](dictionary.md) | よく出てくる言葉 |
 | [例え話](tatoebanasi.md) | 変更の記録と共有のイメージ |
