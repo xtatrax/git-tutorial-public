@@ -1,0 +1,30 @@
+# OSが生成する表示・補助ファイル
+.DS_Store
+._*
+[Dd]esktop.ini
+Thumbs.db
+
+# ローカル設定・ログ・一時ファイル
+.idea/
+.vscode/
+.env
+.env.*
+!.env.example
+*.log
+*.tmp
+*.bak
+*~
+
+# 認証情報。内容を確認する運用も併用する
+.ssh/
+id_rsa
+id_ecdsa
+id_ed25519
+*.pem
+*.key
+
+# 元資料の編集ファイル・バックアップを公開版へ持ち込まない
+*.apd
+*.mdp
+*.pptx
+backups/
