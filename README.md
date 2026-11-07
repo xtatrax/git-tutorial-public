@@ -14,6 +14,7 @@ Gitを初めて使う人のための日本語チュートリアルです。元�
 | [自前サーバーで共有する](server/README.md) | LinuxサーバーとSSH公開鍵で共有する |
 | [GitHubのアカウント作成と初期設定](github/account.md) | 登録、メール非公開、2FA、Gitとの接続 |
 | [GitHubを使う](github/README.md) | リポジトリ作成、共同作業、Pages |
+| [GitHubのプルリクエスト詳説](github/pull-requests.md) | 作成・差分・レビュー・修正・競合・マージ・fork |
 | [GitHub Desktopで使うGit](github-desktop/README.md) | Windows・macOSのGUIでclone・コミット・ブランチ・送受信 |
 | [GitLab.comの登録と初期設定](gitlab/account.md) | 公式ホスティングへの登録、メール・認証・接続 |
 | [GitLabの自前サーバー構築](gitlab/self-managed.md) | Ubuntu、HTTPS、管理者・利用者、バックアップ |

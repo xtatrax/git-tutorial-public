@@ -168,6 +168,8 @@ GitHubに新しいリポジトリを作って送りたいときは、`Publish re
 
 ## 9. 作業ブランチとPull Request
 
+PR画面での差分確認、レビュー・追加修正、マージ方式までの詳細は [GitHubのプルリクエスト詳説](../github/pull-requests.md)を参照してください。
+
 1. 未コミットの編集を整理し、`Current Branch` から起点のブランチを選びます。
 2. `New Branch` を選び、`topic/add-notes` などの名前を入力します。`Create branch based on...` の起点を確認し、`Create Branch` で作成します。
 3. 新しいブランチへ切り替わったことを確認し、編集・コミットします。
