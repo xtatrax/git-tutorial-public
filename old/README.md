@@ -10,6 +10,8 @@ Windows・macOS・Linuxのエディター内で進める場合は、[VS Code標�
 
 Windowsでの具体的な操作は、[TortoiseGitで使うGit](../tortoisegit/README.md)で説明しています。インストール、名義設定、clone、コミット、送受信、ブランチ、競合解決へ順に進めます。
 
+Windows・macOSの専用アプリで進める場合は、[GitHub Desktopの手順](../github-desktop/README.md)を参照してください。コミット対象の選択、送受信、ブランチ、Pull Requestも扱います。
+
 Git付属の機能で履歴をブラウザー表示する場合は、[Gitwebとgit instaweb](../gitweb/README.md)を参照してください。
 
 ## 既存リポジトリを使う

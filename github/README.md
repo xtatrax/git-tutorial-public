@@ -6,7 +6,7 @@ GitHubはGitリポジトリのホスティングサービスです。履歴の�
 
 初めて使う場合は、[アカウント作成と初期設定](account.md)を先に進めてください。メールの確認・公開範囲・2FA・手元のGitからの接続を準備できます。
 
-Windowsの画面操作で進める場合は、[TortoiseGitの手順](../tortoisegit/README.md)も参照してください。
+Windows・macOSの画面操作で進める場合は、[GitHub Desktopの手順](../github-desktop/README.md)を参照してください。Windowsの右クリックメニューで進める場合は、[TortoiseGitの手順](../tortoisegit/README.md)も使えます。
 
 ## リポジトリを作る
 
