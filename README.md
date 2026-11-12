@@ -7,20 +7,20 @@ Gitを初めて使う人のための日本語チュートリアルです。元�
 | ページ | 内容 |
 | --- | --- |
 | このページ | Gitの役割と全体像 |
-| [準備とSSH](README2.md) | インストール、記録名義、SSH鍵 |
-| [コマンドで使うGit](git/README.md) | ローカルで実習、ブランチ、リモートとの同期 |
-| [Git付属のWeb UI：Gitweb](gitweb/README.md) | ブラウザーで履歴・差分・ファイルを閲覧する |
-| [ローカルのベアリポジトリ](bare/README.md) | 共有先を作り、2つの作業場所でpush・pullする |
-| [自前サーバーで共有する](server/README.md) | LinuxサーバーとSSH公開鍵で共有する |
-| [GitHubのアカウント作成と初期設定](github/account.md) | 登録、メール非公開、2FA、Gitとの接続 |
-| [GitHubを使う](github/README.md) | リポジトリ作成、共同作業、Pages |
-| [GitHubのプルリクエスト詳説](github/pull-requests.md) | 作成・差分・レビュー・修正・競合・マージ・fork |
-| [GitHub Desktopで使うGit](github-desktop/README.md) | Windows・macOSのGUIでclone・コミット・ブランチ・送受信 |
-| [GitLab.comの登録と初期設定](gitlab/account.md) | 公式ホスティングへの登録、メール・認証・接続 |
-| [GitLabの自前サーバー構築](gitlab/self-managed.md) | Ubuntu、HTTPS、管理者・利用者、バックアップ |
-| [GitLabを使う](gitlab/README.md) | Privateプロジェクト、clone、Merge Request |
-| [VS Code標準のGit機能](vscode/README.md) | 差分・部分ステージ・コミット・グラフ・送受信 |
-| [TortoiseGitで使うGit](tortoisegit/README.md) | Windowsの右クリックからclone・コミット・push／pull |
+| [準備とSSH](README2.md) | Git : インストール、記録名義、SSH鍵 |
+| [コマンドで使うGit](git/README.md) | Git : ローカルで実習、ブランチ、リモートとの同期 |
+| [Git付属のWeb UI：Gitweb](gitweb/README.md) | Git : ブラウザーで履歴・差分・ファイルを閲覧する |
+| [ローカルのベアリポジトリ](bare/README.md) | Git : 共有先を作り、2つの作業場所でpush・pullする |
+| [自前サーバーで共有する](server/README.md) | Git : LinuxサーバーとSSH公開鍵で共有する |
+| [GitHubのアカウント作成と初期設定](github/account.md) | GitHub : 登録、メール非公開、2FA、Gitとの接続 |
+| [GitHubを使う](github/README.md) | GitHub : リポジトリ作成、共同作業、Pages |
+| [GitHubのプルリクエスト詳説](github/pull-requests.md) | GitHub : 作成・差分・レビュー・修正・競合・マージ・fork |
+| [GitHub Desktopで使うGit](github-desktop/README.md) | GitHub : Windows・macOSのGUIでclone・コミット・ブランチ・送受信 |
+| [GitLab.comの登録と初期設定](gitlab/account.md) | GitLab : 公式ホスティングへの登録、メール・認証・接続 |
+| [GitLabの自前サーバー構築](gitlab/self-managed.md) | GitLab : Ubuntu、HTTPS、管理者・利用者、バックアップ |
+| [GitLabを使う](gitlab/README.md) | GitLab : Privateプロジェクト、clone、Merge Request |
+| [VS Code標準のGit機能](vscode/README.md) | VS code : 差分・部分ステージ・コミット・グラフ・送受信 |
+| [TortoiseGitで使うGit](tortoisegit/README.md) | TortoiseGit : Windowsの右クリックからclone・コミット・push／pull |
 | [GUIで使うGit](old/README.md) | 画面操作で行うときの手順 |
 | [用語集](dictionary.md) | よく出てくる言葉 |
 | [例え話](tatoebanasi.md) | 変更の記録と共有のイメージ |
